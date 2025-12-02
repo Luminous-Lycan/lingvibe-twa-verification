@@ -1,0 +1,15 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls",
+      "delegate_permission/common.get_login_creds"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.lingvibe.app", 
+      "sha256_cert_fingerprints": [
+        "054B1BF5171DD54CE10C08160D8F903E578CE55B42760CC435CFD4656F9E4D60"
+      ]
+    }
+  }
+]
